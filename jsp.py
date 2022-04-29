@@ -80,7 +80,7 @@ def print_data(event):
 
 button.on_click(print_data)
 
-x.show()
+x.servable()
 
 
 
